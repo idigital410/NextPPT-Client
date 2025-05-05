@@ -23,8 +23,8 @@
 在使用前，您需要配置服务器地址：
 
 1. 打开main.py文件
-2. 找到`SERVER_URL = ""` 这一行
-3. 将其修改为您的服务器地址，例如：`SERVER_URL = "http://your-server-ip:3000"`
+2. 找到`SERVER_URL = ""` 这一行(大概22行)
+3. 将其修改为您的服务器地址，例如：`SERVER_URL = "http://your-server-ip:3000"`   （需要搭配NextPPT-Server使用,3000是Next.js默认端口)
 
 ### 安装依赖
 
