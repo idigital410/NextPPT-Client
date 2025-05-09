@@ -1,4 +1,3 @@
 PyQt5>=5.15.0
-requests>=2.25.0
+requests>=0
 psutil>=5.8.0
-"PyQt-Fluent-Widgets[full]" -i https://pypi.org/simple/
