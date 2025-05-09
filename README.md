@@ -33,7 +33,7 @@ pip install PyQt5>=5.15.0 requests>=2.25.0 psutil>=5.8.0
 pip install "PyQt-Fluent-Widgets[full]" -i https://pypi.org/simple/
 ```
 
-### 运行方法
+### 运行方法(有BUG,别用)
 
 1. 双击 `start.bat` 文件启动应用程序
 2. 首次运行时会自动安装所需依赖
